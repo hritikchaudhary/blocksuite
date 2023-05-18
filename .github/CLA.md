@@ -1,4 +1,4 @@
-<!-- To indicate your agreement, simply edit this file and submit a pull request. -->
+<!-- To indicate your agreement, simply edit this file and submit a pull request.  -->
 
 # BlockSuite Contributor License Agreement
 
