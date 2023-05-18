@@ -107,12 +107,6 @@ export class CodeBlockComponent extends BlockElement<CodeBlockModel> {
       padding-bottom: 20px;
     }
 
-    .affine-code-block-container rich-text:hover {
-      /* to make sure the resize observer can be triggered as expected */
-      overflow-x: auto;
-      overflow-y: hidden;
-    }
-
     #line-numbers {
       position: absolute;
       text-align: right;
